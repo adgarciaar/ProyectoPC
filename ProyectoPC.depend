@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1490476697 source:c:\users\erika1102\desktop\proyectopc\main.cpp
+	<iostream>
+
+1490466281 source:c:\users\erika1102\desktop\proyectopc\src\ficha.cpp
+	"Ficha.h"
+
+1490478006 c:\users\erika1102\desktop\proyectopc\include\ficha.h
+
+1490829898 source:e:\adrian\documentos\dropbox\javeriana\6to semestre\programación de computadores\proyecto\primera entrega\proyecto\main.cpp
+	"Pieza.h"
+	<iostream>
+
+1490493532 e:\adrian\documentos\dropbox\javeriana\6to semestre\programación de computadores\proyecto\primera entrega\proyecto\include\ficha.h
+	<string>
+
+1490668514 e:\adrian\documentos\dropbox\javeriana\6to semestre\programación de computadores\proyecto\primera entrega\proyecto\include\pieza.h
+	<string>
+
+1490749217 source:e:\adrian\documentos\dropbox\javeriana\6to semestre\programación de computadores\proyecto\primera entrega\proyecto\src\pieza.cpp
+	"Pieza.h"
+	<iostream>
+
+1493063064 source:e:\adrian\documentos\dropbox\javeriana\6to semestre\programación de computadores\proyecto\entrega final\proyecto\main.cpp
+	"Pieza.h"
+	"Tablero.h"
+	<iostream>
+
+1493066853 e:\adrian\documentos\dropbox\javeriana\6to semestre\programación de computadores\proyecto\entrega final\proyecto\include\pieza.h
+	<string>
+
+1493066648 source:e:\adrian\documentos\dropbox\javeriana\6to semestre\programación de computadores\proyecto\entrega final\proyecto\src\pieza.cpp
+	"Pieza.h"
+	<iostream>
+
+1493066839 e:\adrian\documentos\dropbox\javeriana\6to semestre\programación de computadores\proyecto\entrega final\proyecto\include\tablero.h
+	"Pieza.h"
+
+1493065200 e:\adrian\documentos\dropbox\javeriana\6to semestre\programación de computadores\proyecto\entrega final\proyecto\src\tablero.cpp
+	"Tablero.h"
+	<iostream>
+
+1493066648 e:\adrian\documentos\dropbox\javeriana\6to semestre\programación de computadores\proyecto\entrega final\proyecto\src\pieza.cpp
+	"Pieza.h"
+	<iostream>
+
+1493067812 source:e:\adrian\documentos\dropbox\javeriana\6to semestre\programación de computadores\proyecto\entrega final\proyecto\src\tablero.cpp
+	"Tablero.h"
+	<iostream>
+
+1496277003 source:d:\adrian\dropbox\universidad\asignaturas\programación de computadores\proyecto\entrega final\proyecto\main.cpp
+	"Pieza.h"
+	"Tablero.h"
+	"ColaT.h"
+	"ListaT.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+
+1496292099 d:\adrian\dropbox\universidad\asignaturas\programación de computadores\proyecto\entrega final\proyecto\include\pieza.h
+	<string>
+
+1496248243 d:\adrian\dropbox\universidad\asignaturas\programación de computadores\proyecto\entrega final\proyecto\include\tablero.h
+	"Pieza.h"
+
+1496177865 source:d:\adrian\dropbox\universidad\asignaturas\programación de computadores\proyecto\entrega final\proyecto\src\pieza.cpp
+	"Pieza.h"
+	<iostream>
+
+1496188435 source:d:\adrian\dropbox\universidad\asignaturas\programación de computadores\proyecto\entrega final\proyecto\src\tablero.cpp
+	"Tablero.h"
+	<iostream>
+
+1495847116 d:\adrian\dropbox\universidad\asignaturas\programación de computadores\proyecto\entrega final\proyecto\colat.h
+	"NodoT.h"
+	"ColaT.hpp"
+
+1495847311 d:\adrian\dropbox\universidad\asignaturas\programación de computadores\proyecto\entrega final\proyecto\nodot.h
+
+1496071997 d:\adrian\dropbox\universidad\asignaturas\programación de computadores\proyecto\entrega final\proyecto\colat.hpp
+	"ColaT.h"
+
+1495932249 d:\adrian\dropbox\universidad\asignaturas\programación de computadores\proyecto\entrega final\proyecto\listat.h
+	"NodoT.h"
+	"ListaT.hpp"
+
+1496247971 d:\adrian\dropbox\universidad\asignaturas\programación de computadores\proyecto\entrega final\proyecto\listat.hpp
+	"ListaT.h"
+
+1496084310 source:e:\adrian\documentos\dropbox\universidad\asignaturas\programación de computadores\proyecto\entrega final\proyecto\src\pieza.cpp
+	"Pieza.h"
+	<iostream>
+
+1496084300 e:\adrian\documentos\dropbox\universidad\asignaturas\programación de computadores\proyecto\entrega final\proyecto\include\pieza.h
+	<string>
+
+1496069095 source:e:\adrian\documentos\dropbox\universidad\asignaturas\programación de computadores\proyecto\entrega final\proyecto\src\tablero.cpp
+	"Tablero.h"
+	<iostream>
+
+1496070877 e:\adrian\documentos\dropbox\universidad\asignaturas\programación de computadores\proyecto\entrega final\proyecto\include\tablero.h
+	"Pieza.h"
+
+1496091574 source:e:\adrian\documentos\dropbox\universidad\asignaturas\programación de computadores\proyecto\entrega final\proyecto\main.cpp
+	"Pieza.h"
+	"Tablero.h"
+	"ColaT.h"
+	"ListaT.h"
+	<iostream>
+	<fstream>
+
+1495847116 e:\adrian\documentos\dropbox\universidad\asignaturas\programación de computadores\proyecto\entrega final\proyecto\colat.h
+	"NodoT.h"
+	"ColaT.hpp"
+
+1495847311 e:\adrian\documentos\dropbox\universidad\asignaturas\programación de computadores\proyecto\entrega final\proyecto\nodot.h
+
+1496071997 e:\adrian\documentos\dropbox\universidad\asignaturas\programación de computadores\proyecto\entrega final\proyecto\colat.hpp
+	"ColaT.h"
+
+1495932249 e:\adrian\documentos\dropbox\universidad\asignaturas\programación de computadores\proyecto\entrega final\proyecto\listat.h
+	"NodoT.h"
+	"ListaT.hpp"
+
+1495934139 e:\adrian\documentos\dropbox\universidad\asignaturas\programación de computadores\proyecto\entrega final\proyecto\listat.hpp
+	"ListaT.h"
+
